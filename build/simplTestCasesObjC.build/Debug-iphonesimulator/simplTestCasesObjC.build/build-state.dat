@@ -1,0 +1,256 @@
+TsimplTestCasesObjC
+v7
+r0
+t341351994.689232
+cCheck dependencies
+cProcessInfoPlistFile /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/Info.plist simplTestCasesObjC-Info.plist
+cCompileXIB /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/MainWindow.xib
+cCompileXIB /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/simplTestCasesObjCViewController.xib
+cProcessPCH /var/folders/Rn/RnlBal6zHS0jMMrhKXMIek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simplTestCasesObjC_Prefix-bectrvztirpifbefggqvqnthajav/simplTestCasesObjC_Prefix.pch.gch simplTestCasesObjC_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/Objects-normal/i386/main.o /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/Objects-normal/i386/simplTestCasesObjCAppDelegate.o /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/Classes/simplTestCasesObjCAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/Objects-normal/i386/simplTestCasesObjCViewController.o /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/Classes/simplTestCasesObjCViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/simplTestCasesObjC normal i386
+cGenerateDSYMFile /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app.dSYM /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/simplTestCasesObjC
+cTouch /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004CA3CBA70000000000000110
+t1285802919
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/Classes/simplTestCasesObjCAppDelegate.h
+c000000004EA866B40000000000000227
+t1319659188
+s551
+i<UIKit/UIKit.h>
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/Classes/simplTestCasesObjCAppDelegate.m
+c000000004EA866B40000000000000AC8
+t1319659188
+s2760
+i"simplTestCasesObjCAppDelegate.h"
+i"simplTestCasesObjCViewController.h"
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/Classes/simplTestCasesObjCViewController.h
+c000000004EA866B40000000000000115
+t1319659188
+s277
+i<UIKit/UIKit.h>
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/Classes/simplTestCasesObjCViewController.m
+c000000004EA866B400000000000005EB
+t1319659188
+s1515
+i"simplTestCasesObjCViewController.h"
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/MainWindow.xib
+c000000004EA866B40000000000004EAD
+t1319659188
+s20141
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app
+t1319659194
+s238
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app.dSYM
+t1319659194
+s102
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/Info.plist
+t1319659193
+s641
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/MainWindow.nib
+t1319659194
+s1703
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/PkgInfo
+t1319659193
+s8
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/simplTestCasesObjC
+t1319659194
+s17788
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/simplTestCasesObjCViewController.nib
+t1319659194
+s1269
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/Objects-normal/i386/main.o
+t1319659194
+s6352
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/Objects-normal/i386/simplTestCasesObjC.LinkFileList
+c000000004EA866B90000000000000230
+t1319659193
+s560
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/Objects-normal/i386/simplTestCasesObjCAppDelegate.o
+t1319659194
+s48464
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/Objects-normal/i386/simplTestCasesObjCViewController.o
+t1319659194
+s34732
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/main.m
+c000000004EA866B4000000000000017A
+t1319659188
+s378
+i<UIKit/UIKit.h>
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/simplTestCasesObjCViewController.xib
+c000000004EA866B40000000000001A71
+t1319659188
+s6769
+
+N/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/simplTestCasesObjC_Prefix.pch
+c000000004EA866B400000000000000CD
+t1319659188
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/Rn/RnlBal6zHS0jMMrhKXMIek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simplTestCasesObjC_Prefix-bectrvztirpifbefggqvqnthajav/simplTestCasesObjC_Prefix.pch.gch
+t1319659194
+s15211536
+
+NsimplTestCasesObjC-Info.plist
+c000000004EA866B4000000000000038D
+t1319659188
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies341351993#341351993#0(0"0(0#1#0"8622903872#0"0#
+
+CCompileC build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/Objects-normal/i386/main.o /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341351994.608129
+e341351994.645576
+r1
+xCompileC
+xbuild/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/Objects-normal/i386/main.o
+x/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/main.m341351994#341351994#0(0"0(0#0#70"/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/main.m8622504352#2409"    cd /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/simplTestCasesObjC-generated-files.hmap -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/simplTestCasesObjC-own-target-headers.hmap -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/simplTestCasesObjC-all-target-headers.hmap -iquote /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/simplTestCasesObjC-project-headers.hmap -F/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/include -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/DerivedSources/i386 -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/DerivedSources -include /var/folders/Rn/RnlBal6zHS0jMMrhKXMIek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simplTestCasesObjC_Prefix-bectrvztirpifbefggqvqnthajav/simplTestCasesObjC_Prefix.pch -c /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/main.m -o /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/Objects-normal/i386/main.o0#
+
+CCompileC build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/Objects-normal/i386/simplTestCasesObjCAppDelegate.o /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/Classes/simplTestCasesObjCAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341351994.608874
+e341351994.659418
+r1
+xCompileC
+xbuild/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/Objects-normal/i386/simplTestCasesObjCAppDelegate.o
+x/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/Classes/simplTestCasesObjCAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/Classes/simplTestCasesObjCAppDelegate.m341351994#341351994#0(0"0(0#0#103"/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/Classes/simplTestCasesObjCAppDelegate.m8622034784#2467"    cd /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/simplTestCasesObjC-generated-files.hmap -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/simplTestCasesObjC-own-target-headers.hmap -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/simplTestCasesObjC-all-target-headers.hmap -iquote /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/simplTestCasesObjC-project-headers.hmap -F/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/include -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/DerivedSources/i386 -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/DerivedSources -include /var/folders/Rn/RnlBal6zHS0jMMrhKXMIek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simplTestCasesObjC_Prefix-bectrvztirpifbefggqvqnthajav/simplTestCasesObjC_Prefix.pch -c /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/Classes/simplTestCasesObjCAppDelegate.m -o /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/Objects-normal/i386/simplTestCasesObjCAppDelegate.o0#
+
+CCompileC build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/Objects-normal/i386/simplTestCasesObjCViewController.o /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/Classes/simplTestCasesObjCViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341351994.609557
+e341351994.651450
+r1
+xCompileC
+xbuild/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/Objects-normal/i386/simplTestCasesObjCViewController.o
+x/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/Classes/simplTestCasesObjCViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/Classes/simplTestCasesObjCViewController.m341351994#341351994#0(0"0(0#0#106"/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/Classes/simplTestCasesObjCViewController.m8621711264#2473"    cd /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/simplTestCasesObjC-generated-files.hmap -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/simplTestCasesObjC-own-target-headers.hmap -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/simplTestCasesObjC-all-target-headers.hmap -iquote /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/simplTestCasesObjC-project-headers.hmap -F/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/include -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/DerivedSources/i386 -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/DerivedSources -include /var/folders/Rn/RnlBal6zHS0jMMrhKXMIek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simplTestCasesObjC_Prefix-bectrvztirpifbefggqvqnthajav/simplTestCasesObjC_Prefix.pch -c /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/Classes/simplTestCasesObjCViewController.m -o /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/Objects-normal/i386/simplTestCasesObjCViewController.o0#
+
+CCompileXIB /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/MainWindow.xib
+s341351993.877773
+e341351994.197148
+r1
+xCompileXIB
+x/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib341351993#341351994#0(0"0(0#0#78"/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/MainWindow.xib8617247872#656"    cd /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/MainWindow.nib /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/simplTestCasesObjCViewController.xib
+s341351993.878405
+e341351994.191265
+r1
+xCompileXIB
+x/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/simplTestCasesObjCViewController.xib
+lSLF07#2@47"CompileXIB simplTestCasesObjCViewController.xib341351993#341351994#0(0"0(0#0#100"/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/simplTestCasesObjCViewController.xib8615881472#700"    cd /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/simplTestCasesObjCViewController.nib /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/simplTestCasesObjCViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app.dSYM /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/simplTestCasesObjC
+s341351994.675827
+e341351994.687077
+r1
+xGenerateDSYMFile
+x/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app.dSYM
+x/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/simplTestCasesObjC
+lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/simplTestCasesObjC.app.dSYM build/Debug-iphonesimulator/simplTestCasesObjC.app/simplTestCasesObjC341351994#341351994#0(0"0(0#0#133"/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/simplTestCasesObjC8620521376#491"    cd /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/simplTestCasesObjC -o /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app.dSYM0#
+
+CLd /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/simplTestCasesObjC normal i386
+s341351994.659479
+e341351994.675754
+r1
+xLd
+x/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/simplTestCasesObjC
+xnormal
+xi386
+lSLF07#2@138"Link /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/simplTestCasesObjC341351994#341351994#0(0"0(0#0#0"8620913248#1080"    cd /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator -F/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator -filelist /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/Objects-normal/i386/simplTestCasesObjC.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/simplTestCasesObjC0#
+
+CProcessInfoPlistFile /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/Info.plist simplTestCasesObjC-Info.plist
+s341351993.873986
+e341351993.877675
+r1
+xProcessInfoPlistFile
+x/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/Info.plist
+xsimplTestCasesObjC-Info.plist
+lSLF07#2@37"Process simplTestCasesObjC-Info.plist341351993#341351993#0(0"0(0#0#93"/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/simplTestCasesObjC-Info.plist8621901024#587"    cd /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility simplTestCasesObjC-Info.plist -genpkginfo /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app/Info.plist0#
+
+CProcessPCH /var/folders/Rn/RnlBal6zHS0jMMrhKXMIek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simplTestCasesObjC_Prefix-bectrvztirpifbefggqvqnthajav/simplTestCasesObjC_Prefix.pch.gch simplTestCasesObjC_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s341351994.197238
+e341351994.608055
+r1
+xProcessPCH
+x/var/folders/Rn/RnlBal6zHS0jMMrhKXMIek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simplTestCasesObjC_Prefix-bectrvztirpifbefggqvqnthajav/simplTestCasesObjC_Prefix.pch.gch
+xsimplTestCasesObjC_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile simplTestCasesObjC_Prefix.pch341351994#341351994#0(0"0(0#0#93"/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/simplTestCasesObjC_Prefix.pch8617794496#2265"    cd /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/simplTestCasesObjC-generated-files.hmap -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/simplTestCasesObjC-own-target-headers.hmap -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/simplTestCasesObjC-all-target-headers.hmap -iquote /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/simplTestCasesObjC-project-headers.hmap -F/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/include -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/DerivedSources/i386 -I/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/simplTestCasesObjC.build/Debug-iphonesimulator/simplTestCasesObjC.build/DerivedSources -c /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/simplTestCasesObjC_Prefix.pch -o /var/folders/Rn/RnlBal6zHS0jMMrhKXMIek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simplTestCasesObjC_Prefix-bectrvztirpifbefggqvqnthajav/simplTestCasesObjC_Prefix.pch.gch0#
+
+CTouch /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app
+s341351994.687135
+e341351994.689207
+r1
+xTouch
+x/Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app
+lSLF07#2@120"Touch /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app341351994#341351994#0(0"0(0#0#0"8620398976#339"    cd /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/nabeelshahzad/Documents/objcWorkspace/simplTestCasesObjC/build/Debug-iphonesimulator/simplTestCasesObjC.app0#
+
